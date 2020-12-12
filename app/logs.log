@@ -1,0 +1,27 @@
+[2019-04-09 14:58:02] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-04-09 15:05:07] logs.tango.INFO: Added New Room {"room_id":"7","Admin: ":"smohamed"}*
+[2019-04-09 15:13:44 pm] logs.tango.INFO: Deleted Room {"room_id":"9","Admin: ":"smohamed"}*
+[2019-04-09 15:31:04 pm] logs.tango.INFO: Updated User {"user_id":"6","Admin: ":"smohamed"}*
+[2019-04-09 15:33:52 pm] logs.tango.INFO: Updated User {"user_id":"1","Admin: ":"smohamed"}*
+[2019-04-09 15:34:06 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-04-09 15:35:03 pm] logs.tango.INFO: Updated Reservation's Invoice {"reservation_id":"1015","Admin: ":"smohamed"}*
+[2019-04-09 16:03:31 pm] logs.tango.INFO: Updated User {"user_id":"1","Admin: ":"smohamed"}*
+[2019-04-09 16:03:54 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-04-09 16:12:28 pm] logs.tango.INFO: Deleted User {"user_id":"6","Admin: ":"smohamed"}*
+[2019-04-11 18:47:31 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-04-18 21:28:16 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-04-25 05:06:19 am] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-05-17 17:16:57 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-05-18 17:14:56 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-05-22 23:03:45 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-05-31 11:18:06 am] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-05-31 18:01:19 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-06-03 02:45:03 am] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-06-10 11:56:21 am] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-09-13 02:58:11 am] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-09-19 16:40:23 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-10-09 02:02:30 am] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-10-15 14:21:56 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2019-12-20 15:12:20 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2020-01-19 05:48:19 am] logs.tango.INFO: Admin Login {"username":"smohamed"}*
+[2020-04-02 12:34:51 pm] logs.tango.INFO: Admin Login {"username":"smohamed"}*

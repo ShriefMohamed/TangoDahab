@@ -1,0 +1,21 @@
+* After login as admin:
+    From the panel on the left you can do:
+
+    Rooms Management:
+      Click on "Rooms Management".
+        View all rooms by clicking (All Rooms, Available Rooms .. etc).
+        Edit/Delete Rooms by viewing the list of rooms (step above) and click on Edit or Delete next to the targeted room.
+        Add new room by clicking "Add New Room" in the "Rooms Management" list.
+
+    Users Management:
+       Click on "Users (Admin/Customers)".
+        View All users by clicking (Manage All Users)
+            or you can view only the admins accounts (Manage Admins) or only the customers accounts (Manage Customers).
+        Create a new user account (either customer account or admin account) by clicking "Add User" in the list.
+        Edit/Delete users by viewing all users with either 3 links in the list (Manage All Users - Manage Admins - Manage Customers)
+            and click on the Edit or Delete button next to the targeted account.
+
+    News Management:
+        Click on "News" in the left panel.
+          View all published post by clicking "All News".
+          Edit/Delete an article by viewing all the posts (All News), and after that click on the delete/edit button next to the targeted post.

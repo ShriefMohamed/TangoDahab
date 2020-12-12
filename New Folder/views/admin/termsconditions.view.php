@@ -1,0 +1,47 @@
+<?php if (isset($termsconditions) && $termsconditions != null) : ?>
+<div class="card">
+    <div class="card-header">
+        <strong class="card-title">Manage Terms & Conditions</strong>
+    </div>
+
+    <div class="card-body">
+        <div class="alert alert-success" role="alert">
+            <h4 class="alert-heading">Terms & Conditions</h4>
+            <p><?= $termsconditions->content ?></p>
+            <hr>
+            <button type="button" class="btn btn-secondary mb-1" data-toggle="modal" data-target="#scrollmodal">
+              Edit Terms & Conditions
+            </button>
+        </div>
+    </div>
+
+
+   <div class="modal fade" id="scrollmodal" tabindex="-1" role="dialog" aria-labelledby="scrollmodalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="scrollmodalLabel">Update Terms & Conditions</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                <form method="post" class="form-horizontal" name="terms_conditions">
+                    <div class="row form-group">
+                        <div class="col-12 col-md-9">
+                            <textarea name="termsconditions" id="textarea-input" rows="9" placeholder="<?= $termsconditions->content ?>" class="form-control"></textarea>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                        <button type="submit" class="btn btn-primary">Confirm</button>
+                    </div>
+                </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<?php endif; ?>
